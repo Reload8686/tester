@@ -1,0 +1,6 @@
+distlib==0.3.4
+filelock==3.7.0
+platformdirs==2.5.2
+python-apt==2.3.0
+six==1.16.0
+virtualenv==20.14.1
